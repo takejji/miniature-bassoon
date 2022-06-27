@@ -3,4 +3,4 @@ def func(i):
 
 
 if __name__ == "__main__":
-    def func(5)
+    func(5)
