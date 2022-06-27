@@ -1,2 +1,2 @@
-def ():
+def func():
   return
