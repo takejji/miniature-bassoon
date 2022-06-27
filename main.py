@@ -1,2 +1,2 @@
-def ():
-  return
+def (i):
+  return i
